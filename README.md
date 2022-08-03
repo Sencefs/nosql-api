@@ -31,5 +31,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Mock-Up
 
 ![image](https://user-images.githubusercontent.com/100245563/182079390-b8ff6f0c-058d-4141-a126-05521bb44762.png)
-https://vimeo.com/735325404
+https://vimeo.com/736093926
+https://vimeo.com/736094327
+https://vimeo.com/736094628
 
